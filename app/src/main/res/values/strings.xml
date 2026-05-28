@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Telegram Pro</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="verification_code">كود التحقق</string>
+    <string name="messages">الرسائل</string>
+    <string name="bots">البوتات</string>
+    <string name="pages">الصفحات</string>
+    <string name="groups">المجموعات</string>
+    <string name="wallet">المحفظة</string>
+    <string name="post">نشر</string>
+    <string name="settings">الإعدادات</string>
+    <string name="no_posts">لا توجد منشورات</string>
+</resources>
